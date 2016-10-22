@@ -1,0 +1,11 @@
+# Generic files
+*~
+*.DS_Store
+*.swp
+*.log
+Thumbs.db
+
+# Jekyll
+_site
+_drafts
+.sass-cache

@@ -6,12 +6,11 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Start Bootstrap
+
+title: Alexis Digital
 email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Web Developer - Graphic Artist - User Experience Designer
-baseurl: "/startbootstrap-freelancer-jekyll" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+description: Software development
+url: https://alexisdigital.com
 
 # Social media profiles - feel free to add more here
 twitter_username: SBootstrap
@@ -29,5 +28,6 @@ address_city: Beverly Hills
 address_state: CA
 address_zip: 90201
 
-# Build settings
+#-- Styles
+highlighter: rouge
 markdown: kramdown
